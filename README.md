@@ -13,4 +13,4 @@ Y placer les documents PDF à envoyer.
 
 Lancer ensuite le script :
 
-python main.py
+python dossier_loc.py
